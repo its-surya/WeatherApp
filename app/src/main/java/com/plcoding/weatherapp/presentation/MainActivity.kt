@@ -66,6 +66,7 @@ class MainActivity : ComponentActivity() {
                             color = Color.Red,
                             textAlign = TextAlign.Center,
                             modifier = Modifier.align(Alignment.Center)
+
                         )
                     }
                 }
